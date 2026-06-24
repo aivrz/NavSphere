@@ -282,6 +282,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1782264209074",
+      "title": "货源代发工具",
+      "icon": "FolderKanban",
+      "description": "推荐电商货源上货工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
