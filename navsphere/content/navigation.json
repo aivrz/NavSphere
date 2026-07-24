@@ -1,0 +1,873 @@
+{
+  "navigationItems": [
+    {
+      "id": "1761812940080",
+      "title": "淘宝电商工具",
+      "icon": "Home",
+      "description": "淘宝&天猫商家后台常用运营入口",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1761813007544",
+          "title": "机器人接待",
+          "href": "https://qn.taobao.com/home.htm/app-customer-service/robot?acKey=setting",
+          "description": "淘宝机器人接待，一般用的是店小蜜，与店铺离线公告相互配合，达到降低三分钟响应率的处罚和对店铺体验分的影响。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761813502636",
+          "title": "店小蜜全自动接待",
+          "href": "https://dianxiaomi.taobao.com/#/setting/serve",
+          "description": "此项设置与离线公告相配合，可以有效规避淘宝店铺的三分钟人工响应率。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761814075602",
+          "title": "万相台创意素材优化",
+          "href": "https://one.alimama.com/index.html?spm=a21dvs.28495141.ccab3350b.1.4dad2cdeiM1Wme#!/creative/setting?spm=a21dvs.28495141.ccab3350b.1.4dad2cdeiM1Wme&tab=sucai_switch&scene=onebpAdStrategyWholeShop",
+          "description": "万相台的创意素材拉取，除了3:4主图需要拉取其他都不要",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761814816244",
+          "title": "淘宝智能退款策略",
+          "href": "https://qn.taobao.com/home.htm/auto-refund/InstanceList",
+          "description": "通过淘宝智能退款策略，可以设置多种订单场景下的自动操作，非常有助于提升店铺的综合体验分。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761812947737",
+          "title": "淘宝客服离线公告",
+          "href": "https://qn.taobao.com/home.htm/app-customer-service/toolpage/service-off-line",
+          "description": "客服离线公告设置是必不可少的，可避免考核处罚，并与机器人回复配合优化体验。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001001",
+          "title": "公益宝贝",
+          "href": "https://qn.taobao.com/home.htm/gongyi/charity-goods-setting?spm=a21dvs.23580594.0.0.1d293d0dZOHX6U&%24qnsource=sellmanager",
+          "description": "开启公益宝贝计划，为消费者传递温暖形象的同时助力公益事业。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001002",
+          "title": "学生价活动",
+          "href": "https://xszxbt.sale.tmall.com/sale/seller/activity_detail.htm?activityId=227863920144",
+          "description": "针对学生群体推出专属优惠活动，提升品牌年轻化形象。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001003",
+          "title": "淘金币活动",
+          "href": "https://market.m.taobao.com/app/tbcoin/coin_seller/index.html#/home",
+          "description": "参与淘金币活动，提升曝光率和店铺活跃度。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001004",
+          "title": "低价活动入口",
+          "href": "https://myseller.taobao.com/home.htm/ltao-home",
+          "description": "报名低价活动，获取更多流量曝光机会。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001005",
+          "title": "红包签到",
+          "href": "http://p.tb.cn/yNrgi",
+          "description": "每日红包签到活动入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001006",
+          "title": "【年终冲刺】青春惊喜补贴玩法招商",
+          "href": "https://sale.taobao.com/sale/seller/activity_detail.htm?activityId=449788560157",
+          "description": "淘宝官方年终冲刺补贴活动报名入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001007",
+          "title": "淘宝好价清退",
+          "href": "https://survey.taobao.com/apps/zhiliao/wwF-h0G9j",
+          "description": "查看好价活动的清退政策和处理方式。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001008",
+          "title": "分期免息玩法清退",
+          "href": "https://survey.taobao.com/apps/zhiliao/PNgh0UcMY",
+          "description": "分期免息活动的清退规则说明。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001009",
+          "title": "信用卡支付开通",
+          "href": "https://qn.taobao.com/home.htm/qianniu-app-market/home/service-detail?tracelog=qn_search&service_code=APP_ALIPAY_CREDITCARD",
+          "description": "店铺信用卡支付开通入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001010",
+          "title": "花呗支付开通",
+          "href": "https://qn.taobao.com/home.htm/qianniu-app-market/home/service-detail?tracelog=qn_search&service_code=APP_ALIPAY_CREDITCARD",
+          "description": "花呗支付开通，提升消费者支付转化率。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001011",
+          "title": "【超级卖家&金牌计划专属】日常单品团",
+          "href": "https://qn.taobao.com/home.htm/qn-tmc-seller/sale/seller/activity_detail.htm?spm=a21dov.b27349657d.0.0.6246444aYhSuDB&activityId=37425720009",
+          "description": "超级卖家专属单品团报名入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001012",
+          "title": "一键卖全球",
+          "href": "https://g-sellercenter.taobao.com/mail/sellercenter?from=qianniu",
+          "description": "帮助卖家轻松开启跨境销售。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001013",
+          "title": "限售区域设置方法",
+          "href": "https://myseller.taobao.com/home.htm/inventory-manage/salesScopeManage?spm=a21d2t.22405527.ewServiceWindow.2.9b396afaAIxuMd",
+          "description": "设置商品限售区域，防止违规销售。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001014",
+          "title": "详情旧版改新版【批量投放自定义模块】",
+          "href": "https://xiangqing.wangpu.taobao.com/material.html#module",
+          "description": "新版详情模块批量投放入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001015",
+          "title": "价格竞争力退出",
+          "href": "https://qn.taobao.com/home.htm/coupon/priceDropRecord",
+          "description": "管理或退出价格竞争力活动。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001016",
+          "title": "新客专享10%",
+          "href": "https://ppxk.tmall.com/new/index.html?spm=service_hall.0.0.0.1432fo5Ufo5Ujs#!/crowd/tyro-gift-transform-list/index",
+          "description": "新客专享优惠活动入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001017",
+          "title": "自动发送说明书",
+          "href": "https://qn.taobao.com/home.htm/commodity-instruction?appId=2402060",
+          "description": "自动为买家发送商品说明书，提升服务体验。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001018",
+          "title": "淘宝自动回评",
+          "href": "https://myseller.taobao.com/home.htm/smartapp-auto/?spm=service_hall.0.0.0.150fx7SZx7SZQd",
+          "description": "设置自动好评规则，提升DSR评分。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001019",
+          "title": "最新的3元购",
+          "href": "https://tjbcommon.sale.tmall.com/sale/seller/activity_detail.htm?activityId=611914320182",
+          "description": "报名3元购活动，提升转化与曝光。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001020",
+          "title": "最新的1元购",
+          "href": "https://tjbcommon.sale.tmall.com/sale/seller/activity_detail.htm?activityId=609228270182",
+          "description": "报名1元购活动入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001021",
+          "title": "超级立减",
+          "href": "https://qn.taobao.com/home.htm/starb/tmc-next/sale/seller/ttmjpt.htm",
+          "description": "参与超级立减活动，提升订单量。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001022",
+          "title": "商品详情页【搭配购买】",
+          "href": "https://xhd.sale.tmall.com/sale/seller/activity_detail.htm?activityId=615020650168&inviteId=8135035401",
+          "description": "搭配购买设置入口，提升客单价。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001023",
+          "title": "淘宝营业执照更新路径",
+          "href": "https://myseller.taobao.com/home.htm/shop-manage/iframe?src=https%3A%2F%2Fqc-main.taobao.com%2Fquali%2Fportal%3FbizSource%3Dtaobao%26url_open_type%3Diframe%23%2FqualiInfo-center%2F",
+          "description": "淘宝营业执照更新与年检路径。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001024",
+          "title": "很多商品没有质量分",
+          "href": "https://qn.taobao.com/home.htm/sell-diagnose/all?spm=a21dvs.23580594.0.0.4fee2c1bj2k11g",
+          "description": "质量分诊断入口，查看影响评分的因素。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001025",
+          "title": "淘宝知识产权平台",
+          "href": "https://ipp.taobao.com/home.htm#/login",
+          "description": "知识产权保护平台，进行维权申诉。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001026",
+          "title": "集运仓在线客服链接",
+          "href": "https://market.m.taobao.com/app/cnAIService/bailingPCNew/bailingPC.html?channel=1000000523",
+          "description": "淘宝集运仓在线客服入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001027",
+          "title": "1元购限制黄牛",
+          "href": "https://ss.taobao.com/app#/transaction-risk/RuleConfig?type=SCALPER&id=null&key=1&status=create",
+          "description": "1元购防黄牛规则设置入口。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001028",
+          "title": "生意参谋商家后台",
+          "href": "https://sycm.taobao.com/",
+          "description": "淘宝天猫核心数据分析工具，流量、转化、竞品、市场行情查询。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001029",
+          "title": "直通车推广后台",
+          "href": "https://ad.taobao.com/",
+          "description": "标准搜索直通车投放，关键词、人群、地域出价管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001030",
+          "title": "引力魔方后台",
+          "href": "https://guangying.alimama.com/",
+          "description": "推荐流量投放工具，定向人群拉新、收割，活动蓄水常用。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001031",
+          "title": "淘宝商家体检中心",
+          "href": "https://myseller.taobao.com/home.htm/healthCheck",
+          "description": "店铺违规、风险预警、处罚记录、指标健康度一站式查看。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001032",
+          "title": "运费模板设置",
+          "href": "https://myseller.taobao.com/home.htm/logistics/template",
+          "description": "全国运费、偏远地区加价、包邮区域统一配置。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001033",
+          "title": "单品优惠券管理",
+          "href": "https://qn.taobao.com/home.htm/coupon/single",
+          "description": "商品券创建、暂停、到期数据监控，提升单品转化。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001034",
+          "title": "店铺优惠券管理",
+          "href": "https://qn.taobao.com/home.htm/coupon/shop",
+          "description": "店铺满减券、无门槛券配置，提升客单价。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001035",
+          "title": "淘内免费试用活动",
+          "href": "https://try.taobao.com/seller.htm",
+          "description": "试用活动报名，积累评价、买家秀素材。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1761820001036",
+          "title": "千牛消息中心",
+          "href": "https://qn.taobao.com/home.htm/message",
+          "description": "平台公告、处罚通知、活动招商消息统一接收。",
+          "icon": "",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "1761809033511",
+      "title": "跨境工具",
+      "icon": "Network",
+      "description": "Temu、TikTok Shop、Shopee、Lazada、Ozon等跨境平台运营工具",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1761809094476_xd0v5lpzq",
+          "title": "妙手ERP - 免费TikTok、Shopee、TEMU、OZON等跨境电商ERP软件",
+          "href": "https://erp.91miaoshou.com/",
+          "description": "妙手ERP，80万+跨境电商卖家的共同选择，支持TikTok、Shopee、Temu、Ozon、Lazada、SHEIN等平台一体化服务。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpzr",
+          "title": "TikTok Shop卖家后台",
+          "href": "https://seller.tiktokglobalshop.com/",
+          "description": "TikTok跨境小店商家后台，商品上架、订单、直播、达人合作管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lps",
+          "title": "Temu卖家中心",
+          "href": "https://seller.temu.com/",
+          "description": "Temu国内供应商后台，供货管理、报价、订单对账、售后处理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpt",
+          "title": "Shopee卖家中心",
+          "href": "https://seller.shopee.cn/",
+          "description": "虾皮跨境卖家后台，上新、广告、站点运营、物流渠道管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpu",
+          "title": "Lazada卖家中心",
+          "href": "https://sellercenter.lazada.com.cn/",
+          "description": "来赞达东南亚跨境商家后台，活动报名、流量推广、店铺数据查看。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpv",
+          "title": "Ozon中国卖家后台",
+          "href": "https://seller.ozon.ru/",
+          "description": "俄罗斯Ozon平台商家后台，商品刊登、物流、广告投放。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpw",
+          "title": "亚马逊卖家后台",
+          "href": "https://sellercentral.amazon.com/",
+          "description": "Amazon全球开店后台，FBA、广告、合规、评论管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpx",
+          "title": "跨境汇率查询",
+          "href": "https://www.xe.com/",
+          "description": "实时多国货币汇率，核算跨境产品定价、利润测算。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1761809094476_xd0v5lpy",
+          "title": "1688跨境专供市场",
+          "href": "https://cross.1688.com/",
+          "description": "跨境货源选品，支持一件代发、多平台铺货货源。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1782264209074",
+      "title": "货源代发工具",
+      "icon": "FolderKanban",
+      "description": "推荐电商货源上货工具、批发平台、一件代发渠道",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1782264210001",
+          "title": "1688阿里巴巴批发平台",
+          "href": "https://www.1688.com/",
+          "description": "国内主流货源批发平台，支持一件代发、混批，淘系、抖店主流供货渠道。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1782264210002",
+          "title": "妙手上货ERP",
+          "href": "https://www.91miaoshou.com/",
+          "description": "多平台一键铺货、订单自动同步、代发下单，支持淘系、抖店、快手、跨境平台。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1782264210003",
+          "title": "欢乐逛ERP",
+          "href": "https://www.huanleguang.com/",
+          "description": "淘系成熟工具，铺货、订单处理、自动打单、评价管理一体化。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1782264210004",
+          "title": "甩手工具箱",
+          "href": "https://www.shuaishou.com/",
+          "description": "商品搬家、批量修改、多平台铺货，适合多店铺矩阵运营。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1782264210005",
+          "title": "多多批发",
+          "href": "https://pifa.pinduoduo.com/",
+          "description": "拼多多批发货源，低价一件代发，适合无货源店铺。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1782264210006",
+          "title": "货源之家",
+          "href": "https://www.huoyuanzhijia.com/",
+          "description": "垂直类目货源集合，服饰、小商品厂家货源渠道查询。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000001",
+      "title": "京东商家工具",
+      "icon": "ShoppingBag",
+      "description": "京东POP、自营商家运营后台入口",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000001001",
+          "title": "京东商家后台京麦",
+          "href": "https://shop.jd.com/",
+          "description": "京东POP商家总后台，商品、订单、售后、店铺基础设置。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000001002",
+          "title": "京东商智数据分析",
+          "href": "https://sz.jd.com/",
+          "description": "京东流量、转化、竞品、行业数据，运营选品与优化核心工具。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000001003",
+          "title": "京东快车推广后台",
+          "href": "https://express.jd.com/",
+          "description": "搜索付费推广，关键词投放、人群定向管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000001004",
+          "title": "京东海投后台",
+          "href": "https://haitou.jd.com/",
+          "description": "自动化全域广告投放，新店测款、流量收割常用。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000001005",
+          "title": "京东客服咚咚后台",
+          "href": "https://im.jd.com/",
+          "description": "咚咚客服接待、机器人配置、响应时效监控。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000001006",
+          "title": "京东活动招商中心",
+          "href": "https://promo.shop.jd.com/",
+          "description": "平台大促、日常活动报名入口。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000002",
+      "title": "抖店运营工具",
+      "icon": "Video",
+      "description": "抖音小店、抖音电商商家后台",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000002001",
+          "title": "抖店商家后台",
+          "href": "https://fxg.jinritemai.com/",
+          "description": "抖店总后台，商品管理、订单、售后、体验分设置。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000002002",
+          "title": "巨量千川后台",
+          "href": "https://qianchuan.jinritemai.com/",
+          "description": "抖音电商付费投放，短视频、直播间带货广告。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000002003",
+          "title": "抖音电商罗盘",
+          "href": "https://luopan.jinritemai.com/",
+          "description": "店铺流量、转化、人群、直播短视频数据分析。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000002004",
+          "title": "抖店机器人客服",
+          "href": "https://im.jinritemai.com/",
+          "description": "飞鸽客服后台，自动回复、知识库配置，提升3分钟响应率。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000002005",
+          "title": "精选联盟商家后台",
+          "href": "https://fxg.jinritemai.com/union/",
+          "description": "设置佣金、招商活动，对接达人、团长带货。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000002006",
+          "title": "抖店活动报名中心",
+          "href": "https://fxg.jinritemai.com/promotion/",
+          "description": "平台日常活动、大促活动报名入口。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000003",
+      "title": "快手小店工具",
+      "icon": "Camera",
+      "description": "快手电商商家运营后台",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000003001",
+          "title": "快手商家后台",
+          "href": "https://s.kwaishop.com/",
+          "description": "快手小店总后台，商品上架、订单、售后、体验分管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000003002",
+          "title": "快手磁力金牛",
+          "href": "https://jinniu.kuaishou.com/",
+          "description": "快手电商付费广告投放，短视频、直播间引流。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000003003",
+          "title": "快手电商数据参谋",
+          "href": "https://data.kwaishop.com/",
+          "description": "店铺流量、成交、达人合作数据统计分析。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000003004",
+          "title": "快手客服后台",
+          "href": "https://im.kuaishou.com/",
+          "description": "快手商家客服，自动回复、会话管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000003005",
+          "title": "快手招商团长后台",
+          "href": "https://s.kwaishop.com/union/",
+          "description": "设置商品佣金，对接快手达人、团长分销。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000004",
+      "title": "小红书商家工具",
+      "icon": "BookOpen",
+      "description": "小红书店铺、蒲公英平台运营入口",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000004001",
+          "title": "小红书商家后台",
+          "href": "https://merchant.xiaohongshu.com/",
+          "description": "小红书商城店铺后台，商品管理、订单、售后、店铺装修。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000004002",
+          "title": "蒲公英平台（品牌合作）",
+          "href": "https://pugongying.xiaohongshu.com/",
+          "description": "达人报备合作、置换、付费投放，笔记种草合作管理。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000004003",
+          "title": "小红书聚光平台",
+          "href": "https://ad.xiaohongshu.com/",
+          "description": "信息流广告、搜索广告投放，种草引流到店铺。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000004004",
+          "title": "小红书商家客服后台",
+          "href": "https://im.xiaohongshu.com/",
+          "description": "私信客服、自动回复、买家咨询会话管理。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000005",
+      "title": "微信小店/视频号工具",
+      "icon": "MessageSquare",
+      "description": "视频号小店、微信商城、私域电商后台",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000005001",
+          "title": "视频号小店商家后台",
+          "href": "https://channels.weixin.qq.com/shop/",
+          "description": "视频号小店商品、订单、售后、运费模板、佣金设置。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000005002",
+          "title": "微信公众平台",
+          "href": "https://mp.weixin.qq.com/",
+          "description": "公众号搭建、菜单、推文、私域流量运营。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000005003",
+          "title": "微信广告投放平台",
+          "href": "https://ad.qq.com/",
+          "description": "朋友圈广告、公众号广告、视频号信息流广告投放。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000005004",
+          "title": "微信客服后台",
+          "href": "https://kf.weixin.qq.com/",
+          "description": "私域统一客服接待，对接视频号、小程序商城咨询。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000006",
+      "title": "综合数据分析&选品工具",
+      "icon": "BarChart",
+      "description": "全平台选品、竞品监控、行业数据查询工具",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000006001",
+          "title": "蝉妈妈数据",
+          "href": "https://www.chanmama.com/",
+          "description": "抖音、小红书、视频号选品，爆款监控、达人数据分析。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000006002",
+          "title": "灰豚数据",
+          "href": "https://www.huitun.com/",
+          "description": "抖快双平台数据，直播销量、短视频爆款、竞品监控。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000006003",
+          "title": "多多情报通",
+          "href": "https://www.ddqbt.com/",
+          "description": "拼多多平台选品、市场行情、竞品销量监控。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000006004",
+          "title": "千瓜数据",
+          "href": "https://www.qianguadata.com/",
+          "description": "小红书专业数据分析，笔记流量、品类爆款、达人榜单。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000006005",
+          "title": "淘大象",
+          "href": "https://www.taodaxiang.com/",
+          "description": "淘系免费查权重、关键词排名、商品违规查询工具。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000007",
+      "title": "美工素材&文案工具",
+      "icon": "Palette",
+      "description": "作图、剪辑、文案、主图详情设计网站",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000007001",
+          "title": "稿定设计",
+          "href": "https://www.gaoding.com/",
+          "description": "电商主图、详情页、短视频封面、海报模板快速制作。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000007002",
+          "title": "创客贴",
+          "href": "https://www.chuangkit.com/",
+          "description": "小红书图文、电商活动图、店铺首页模板设计。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000007003",
+          "title": "可画Canva",
+          "href": "https://www.canva.cn/",
+          "description": "跨境、国内电商图文素材，短视频封面、社媒海报。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000007004",
+          "title": "剪映专业版网页端",
+          "href": "https://www.capcut.cn/",
+          "description": "短视频剪辑、带货视频制作，电商短视频必备。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000007005",
+          "title": "零克查词",
+          "href": "https://www.lingkecc.com/",
+          "description": "电商文案违禁词检测，规避广告法违规处罚。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1790000000008",
+      "title": "合规&物流工具",
+      "icon": "Shield",
+      "description": "违禁词、商标、物流查询、平台规则查询",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1790000008001",
+          "title": "广告法违禁词查询",
+          "href": "https://www.wujinci.com/",
+          "description": "检测标题、详情、直播话术极限词，避免罚款。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000008002",
+          "title": "国家知识产权商标查询",
+          "href": "https://sbj.cnipa.gov.cn/sbcx/",
+          "description": "商标注册状态查询，防止侵权投诉。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000008003",
+          "title": "快递100网页版",
+          "href": "https://www.kuaidi100.com/",
+          "description": "多快递公司物流轨迹批量查询，售后快速核对物流。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1790000008004",
+          "title": "各平台规则中心导航",
+          "href": "https://rule.taobao.com/",
+          "description": "淘宝天猫官方规则中心，处罚、新规第一时间查阅。",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    }
+  ]
+}
