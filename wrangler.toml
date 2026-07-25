@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23licNFfFKePSbcQXu"
 GITHUB_OWNER = "aivrz"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://i6f.cn/api/auth"
-NEXT_PUBLIC_API_URL="https://i6f.cn"
+NEXTAUTH_URL = "https://www.i6f.cn/api/auth"
+NEXT_PUBLIC_API_URL="https://www.i6f.cn"
 
