@@ -14,3 +14,4 @@ NEXT_PUBLIC_API_URL="https://i6f.cn/"
 # 👇 添加这两个用于加速构建
 NODE_VERSION = "22.16.0"
 PNPM_VERSION = "10.11.1"
+NPM_CONFIG_LEGACY_PEER_DEPS = "true"
