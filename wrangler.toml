@@ -11,7 +11,12 @@ GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://i6f.cn/api/auth"
 NEXT_PUBLIC_API_URL="https://i6f.cn"
 
-# 👇 添加这两个用于加速构建
+# 👇 添加这些用于加速构建
 NODE_VERSION = "22.16.0"
 PNPM_VERSION = "10.11.1"
 NPM_CONFIG_LEGACY_PEER_DEPS = "true"
+# 强制使用缓存
+PNPM_STORE_PATH = "/opt/buildhome/.pnpm-store"
+NEXT_TELEMETRY_DISABLED = "1"
+# 新增：跳过 Vercel 的重复安装
+VERCEL_SKIP_PNPM_INSTALL = "true"   
