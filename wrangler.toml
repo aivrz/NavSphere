@@ -19,5 +19,4 @@ NPM_CONFIG_LEGACY_PEER_DEPS = "true"
 PNPM_STORE_PATH = "/opt/buildhome/.pnpm-store"
 NEXT_TELEMETRY_DISABLED = "1"
 # 新增：跳过 Vercel 的重复安装
-VERCEL_SKIP_PNPM_INSTALL = "true"   
-NEXT_TELEMETRY_DISABLED = "1"
+VERCEL_SKIP_PNPM_INSTALL = "true"
