@@ -53,6 +53,10 @@ const nextConfig = {
       allowedOrigins: ['localhost', 'newkit.site']
     },
     optimizePackageImports: ['lucide-react', 'date-fns', 'lodash']
+  },
+  // ========== 新增：减少构建日志输出 ==========
+  logging: {
+    level: 'error',  // 只输出错误信息，减少 I/O 开销
   }
 }
 
